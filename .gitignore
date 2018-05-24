@@ -3,3 +3,4 @@ logs/
 csv_logs/
 256_ObjectCategories/
 *.h5
+.ipynb_checkpoints/
